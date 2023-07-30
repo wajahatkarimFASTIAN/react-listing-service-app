@@ -1,0 +1,6 @@
+.listing-section {
+    flex: 9; /*Occupies 9 parts of the page from 12*/
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
